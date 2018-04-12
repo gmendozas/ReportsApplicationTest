@@ -84,3 +84,4 @@ c:\users\jose.mendoza\source\repos\ReportsApplicationTest\ReportsApplicationTest
 c:\users\jose.mendoza\source\repos\ReportsApplicationTest\ReportsApplicationTest\obj\Debug\ReportsApplicationTest.exe
 c:\users\jose.mendoza\source\repos\ReportsApplicationTest\ReportsApplicationTest\obj\Debug\ReportsApplicationTest.pdb
 C:\Users\jose.mendoza\source\repos\ReportsApplicationTest\ReportsApplicationTest\obj\Debug\ReportsApplicationTest.csprojResolveAssemblyReference.cache
+C:\Users\jose.mendoza\source\repos\ReportsApplicationTest\ReportsApplicationTest\obj\Debug\ReportsApplicationTest.HtmlReport.resources
